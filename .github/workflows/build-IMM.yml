@@ -147,7 +147,7 @@ jobs:
         KERNEL_VERSION_NAME: 6.6.60
         KERNEL_AUTO_LATEST: ture
         PACKAGE_SOC: s905d
-        WHOAMI: fightroad
+        WHOAMI: xunmoo
         SW_FLOWOFFLOAD: 0
         SFE_FLOW: 0
 
